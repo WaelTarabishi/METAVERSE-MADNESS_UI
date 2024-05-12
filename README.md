@@ -1,6 +1,23 @@
-# MetaMotion 🌌
+# METAVERSE-MADNESS 🌌
 
 Welcome to MetaMotion, an immersive UI project that explores the wonders of the metaverse! This project leverages Next.js 13, Tailwind CSS, and Framer Motion to create a visually stunning user experience.
+
+![Screenshot (37)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/c464e027-bb52-474f-ab70-a079ec8cd028)
+
+![Screenshot (38)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/b8a0f391-34db-4f92-85b6-c26c8e598a6b)
+
+![Screenshot (39)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/d4fe2aad-717d-4d19-a75a-6b79b55cb5a1)
+
+![Screenshot (40)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/41b45de2-3ff4-4a51-8fa4-edfcbfdf2d5b)
+
+![Screenshot (41)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/a9fe9ca8-c216-4c1e-b1d3-f139584147a3)
+
+![Screenshot (42)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/97e5d99f-58e7-4198-abb5-73cddff52c43)
+
+![Screenshot (43)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/73681969-49cd-4dba-8686-cc57ecfaf61f)
+
+![Screenshot (44)](https://github.com/WaelTarabishi/METAVERSE-MADNESS_UI/assets/110033974/54148723-323e-4995-b554-c331591707fb)
+
 
 ## Features 🚀
 
